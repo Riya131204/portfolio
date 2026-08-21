@@ -1,0 +1,59 @@
+* {
+    padding: 13px;
+}
+
+.sidebar {
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+}
+
+button {
+    background-color: white;
+    color: blue;
+    padding: 10px;
+    gap: 10px;
+}
+
+.title {
+    text-align: left;
+    color: darkblue;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.profile {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile img {
+    width: 180px;
+    height: 210px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 10px solid white;
+}
+
+.container {
+    display: flex;
+    width: 500rcap;
+}
+
+.main {
+    margin-left: 270px;
+    padding: 20px;
+    width: calc(100% - 270px) width: 100px;
+    box-shadow: inset;
+    background-color: : : -webkit-validation-bubble-arrow-clipper;
+}
+
+.main img {
+    align-self: start;
+}
+
+.contact {
+    background-color: white;
+    width: 500px;
+}
